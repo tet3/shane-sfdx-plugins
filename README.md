@@ -87,7 +87,7 @@ EXAMPLES
 
 _See code: [src/commands/shane/data/file/upload.ts](https://github.com/mshanemc/shane-sfdx-plugins/blob/v0.16.1/src/commands/shane/data/file/upload.ts)_
 
-## sfdx shane:github:package:install
+## sfdx `shane:github:package:install`
 
 installs a package from github using the latestVersion.json file convention
 
@@ -110,7 +110,7 @@ EXAMPLE
 
 _See code: [src/commands/shane/github/package/install.ts](https://github.com/mshanemc/shane-sfdx-plugins/blob/v0.16.1/src/commands/shane/github/package/install.ts)_
 
-## sfdx shane:github:src:install
+## sfdx `shane:github:src:install`
 
 installs a package from github from mdapi src
 
